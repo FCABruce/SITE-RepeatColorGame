@@ -1,0 +1,84 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-image: url('https://cdn.glitch.com/8c6df1ba-c2eb-407d-9991-4b3c6638f6f3%2F6f62dc963fd55fd8d92adffe9a3e6ddd.jpeg?v=1616277869618');
+  color:white;
+}
+
+h1 {
+  font-family: verdana, arial, sans-serif; 
+  font-style: Italic;
+  color: #B0FFFF;
+  
+}
+
+button{
+  padding: 15px;
+  border-radius: 24px;
+}
+
+#gameButtonArea > button{
+  width:200px;
+  height:200px;
+  margin: 2px;
+}
+
+.hidden {
+  display: none;
+}
+
+#button1{
+ background:beige;
+  
+}
+
+#button1:active, #button1.lit {
+  
+   background-image: url('https://cdn.glitch.com/8c6df1ba-c2eb-407d-9991-4b3c6638f6f3%2F9d0d7e97da148257bf5b17978a9009be.jpeg?v=1616277499729');
+  background-size: cover;
+  background-color: #eee;
+  
+}
+
+#button2{
+  
+  background: plum;
+  
+}
+
+#button2:active, #button2.lit{
+  
+  background-image: url('https://cdn.glitch.com/8c6df1ba-c2eb-407d-9991-4b3c6638f6f3%2FPurple-Aesthetic-Wallpaper-7.jpeg?v=1616277504426');
+  background-size: cover;
+  background-color: #eee;
+  
+}
+
+#button3{
+   background: cornflowerblue;
+}
+
+#button3:active, #button3.lit{
+  
+  background-image: url('https://cdn.glitch.com/8c6df1ba-c2eb-407d-9991-4b3c6638f6f3%2Fblue%20aesthetic%20wallpaper46.jpeg?v=1616277485005');
+  background-size: cover;
+  background-color: #eee;
+  
+ 
+}
+#button4{
+  
+  background: peachpuff;
+  
+}
+
+#button4:active, #button4.lit{
+  background-image: url('https://cdn.glitch.com/8c6df1ba-c2eb-407d-9991-4b3c6638f6f3%2Fwp6524946.jpeg?v=1616277494861');
+  background-size: cover;
+  background-color: #eee;
+  
+  
+}
+
